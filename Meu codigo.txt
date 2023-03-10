@@ -1,0 +1,5 @@
+print('1 Ola, mundo')
+print('2 Ola, mundo')
+print('3 Ola, mundo')
+print('4 Ola, mundo')
+print('5 Ola, mundo')
