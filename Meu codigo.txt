@@ -6,3 +6,7 @@ print('5 Ola, mundo')
 
 
 print('Ola tudo, Sou Henrique')
+
+print('meu nome Henrique')
+print('meu nome Alvaro')
+print('meu nome Martins')
